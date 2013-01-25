@@ -41,7 +41,7 @@
         </td>
       
         <td>
-            <asp:TextBox ID="FirstNameTextBox" runat="server" Text='<%#Eval("lastname") %>'></asp:TextBox>
+            <asp:TextBox ID="FirstNameTextBox2" runat="server" Text='<%#Eval("lastname") %>'></asp:TextBox>
         </td>
         <td>
             <asp:TextBox ID="ChatTextBox" runat="server" Text='<%#Eval("address") %>'></asp:TextBox>
