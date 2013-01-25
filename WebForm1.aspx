@@ -44,10 +44,10 @@
             <asp:TextBox ID="FirstNameTextBox" runat="server" Text='<%#Eval("lastname") %>'></asp:TextBox>
         </td>
         <td>
-            <asp:TextBox ID="TextBox9" runat="server" Text='<%#Eval("address") %>'></asp:TextBox>
+            <asp:TextBox ID="ChatTextBox" runat="server" Text='<%#Eval("address") %>'></asp:TextBox>
         </td>
         <td>
-            <asp:TextBox ID="TextBox10" runat="server" Text='<%#Eval("age") %>'></asp:TextBox>
+            <asp:TextBox ID="NameTextBox" runat="server" Text='<%#Eval("age") %>'></asp:TextBox>
         </td>
 
           <td>
